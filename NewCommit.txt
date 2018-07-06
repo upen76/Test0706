@@ -1,1 +1,2 @@
 This is remote repository first file
+This is second line for difference in merging

@@ -1,1 +1,3 @@
-This is remote repository first file
+is is remote repository first file
+This is second line
+Thsi is third line for merge and conflict
